@@ -61,7 +61,7 @@ constantly==15.1.0
 contextlib2==0.6.0.post1
 count-dict==1.1.1
 coverage==5.5
-cryptography==2.8
+cryptography==3.3.2
 cycler==0.10.0
 Cython @ file:///C:/ci/cython_1618435342622/work
 cytoolz==0.10.1
