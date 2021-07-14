@@ -123,7 +123,7 @@ isort==4.3.21
 itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 jdcal==1.4.1
 jedi @ file:///C:/ci/jedi_1611315820849/work
-Jinja2==2.11.1
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==0.14.1
 json5==0.9.1
