@@ -227,7 +227,7 @@ pycurl==7.43.0.5
 pydeck==0.6.2
 pydocstyle==4.0.1
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyGSP==0.5.1
 PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1615748656804/work
 pylint==2.4.4
