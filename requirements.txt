@@ -132,7 +132,7 @@ jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-console==5.2.0
 jupyter-core==4.6.1
-jupyterlab==1.2.6
+jupyterlab==1.2.21
 jupyterlab-launcher @ file:///tmp/build/80754af9/jupyterlab_launcher_1601490670252/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server==1.0.6
