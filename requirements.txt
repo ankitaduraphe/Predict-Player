@@ -21,7 +21,7 @@ attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 autoai-libs==1.12.3
 Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
 autopep8==1.4.4
-Babel==2.8.0
+Babel==2.9.1
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.functools-lru-cache==1.6.1
 backports.shutil-get-terminal-size==1.0.0
