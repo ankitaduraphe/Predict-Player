@@ -65,7 +65,7 @@ cryptography==3.3.2
 cycler==0.10.0
 Cython @ file:///C:/ci/cython_1618435342622/work
 cytoolz==0.10.1
-dask==2.11.0
+dask==2021.10.0
 dataclasses==0.6
 datashape==0.5.4
 decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
