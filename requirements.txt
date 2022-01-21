@@ -116,7 +116,7 @@ importlib-metadata==1.5.0
 incremental==17.5.0
 intervaltree==3.0.2
 ipykernel==5.1.4
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
 isort==4.3.21
