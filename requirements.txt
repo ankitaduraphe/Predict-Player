@@ -193,7 +193,7 @@ opt-einsum==3.3.0
 packaging==20.1
 pandas==1.0.1
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 partd==1.1.0
 path==13.1.0
