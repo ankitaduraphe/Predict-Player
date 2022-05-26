@@ -334,7 +334,7 @@ twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1614804836190/work
 typed-ast==1.4.3
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
 tzlocal==2.1
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 urllib3==1.26.5
 validators==0.18.2
