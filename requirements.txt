@@ -72,7 +72,7 @@ decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 demon==2.0.5
 diff-match-patch==20181111
-distributed==2.11.0
+distributed==2021.10.0
 docutils @ file:///C:/ci/docutils_1620828194019/work
 dynetx==0.2.4
 entrypoints==0.3
