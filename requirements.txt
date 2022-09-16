@@ -183,7 +183,7 @@ numexpr==2.7.1
 numpy==1.20.3
 numpy-linalg==0.1
 numpydoc==0.9.2
-oauthlib==3.1.1
+oauthlib==3.2.1
 odo==0.5.1
 olefile==0.46
 omega-index-py3==0.3
